@@ -1,0 +1,11 @@
+{
+    "robloxLsp.diagnostics.globals": [
+        "getgenv",
+        "__ISAUTOSTAND",
+        "hbo",
+        "luon",
+        "loadfile",
+        "isfile",
+        "readfile"
+    ]
+}
