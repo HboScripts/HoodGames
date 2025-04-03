@@ -6,6 +6,9 @@
         "luon",
         "loadfile",
         "isfile",
-        "readfile"
+        "readfile",
+        "writefile",
+        "isfolder",
+        "makefolder"
     ]
 }
