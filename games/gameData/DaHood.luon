@@ -1,0 +1,17 @@
+{
+	Money = {
+		Codes = {
+			"Watch",
+			"Duck",
+			"VALENTINES2025",
+			"BLOSSOM",
+			"ShortCake",
+			"Beary",
+			"SHRIMP",
+			"VIP"
+		},
+		Redeem = function(code)
+			game:GetService("ReplicatedStorage").MainEvent:FireServer("EnterPromoCode", code)
+		end
+	}
+}
