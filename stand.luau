@@ -1,1 +1,1 @@
-local game = hbo.games[game.PlaceId]
+local place = hbo.games[game.PlaceId]
