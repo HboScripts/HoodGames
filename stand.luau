@@ -1,0 +1,1 @@
+local game = hbo.games[game.PlaceId]

@@ -1,6 +1,9 @@
 {
-    [1] = "yes very fake,
+    [1] = "yes very fake",
+    ["yes very fake"] = 1,
 
     [2788229376] = "DaHood",
-    [7213786345] = "DaHood" -- VC
+    [7213786345] = "DaHood", -- VC
+    ["DaHood"] = 2788229376,
+    ["DaHoodVC"] = 7213786345
 }
