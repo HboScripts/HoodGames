@@ -1,6 +1,6 @@
 getgenv().luon = {
     decode = function(str) return loadstring("return "..str)() end,
-    encode = "no"
+    encode = function(...) return tostring(tostring(tostring(tostring("no")))) end
 }
 
 getgenv().hbo = {
